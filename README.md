@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I’m passionate about learning new technologies, 
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank">
+  <a href="https://www.linkedin.com/in/sachin-chauhan-22b3a0325" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:your.email@example.com" target="_blank">
